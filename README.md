@@ -9,7 +9,7 @@ This repository contains the code and resources for detecting Parkinson's Diseas
 - [Model Description](#model-description)
 - [Contributing](#contributing)
 - [License](#license)
-- [Demo Images](#demoimages)
+- [Demo Images](#demo images)
 
 ## Introduction
 "NeuroVista" is a Web App, built with the objective of detecting Parkinson's disease accurately. 
