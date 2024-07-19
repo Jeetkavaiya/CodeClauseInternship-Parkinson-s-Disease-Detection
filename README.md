@@ -13,6 +13,7 @@ This repository contains the code and resources for detecting Parkinson's Diseas
 
 ## Introduction
 "NeuroVista" is a Web App, built with the objective of detecting Parkinson's disease accurately. 
+
 Parkinson's Disease is a neurodegenerative disorder that affects movement. Early detection of the disease can significantly improve the quality of life for patients. This project leverages machine learning techniques to identify patterns in patient data that indicate the presence of Parkinson's Disease.
 
 ## Dataset 
