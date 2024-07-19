@@ -1,5 +1,5 @@
 # Parkinson's-Disease-Detection (NeuroVista)
-This repository contains the code and resources for detecting Parkinson's Disease using various machine learning algorithms. The goal of this project is to develop a model that can accurately diagnose Parkinson's Disease based on patient data.
+This repository contains the code and resources for detecting Parkinson's Disease using various machine learning algorithms. The goal of this project is to develop a model that can accurately detect Parkinson's Disease based on patient data.
 
 ## Table of Contents
 
