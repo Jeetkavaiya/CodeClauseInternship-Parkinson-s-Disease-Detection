@@ -3,7 +3,7 @@ This repository contains the code and resources for detecting Parkinson's Diseas
 
 ## Table of Contents
 
-- [Website link](#website_link)
+- [Website link](#websitelink)
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
