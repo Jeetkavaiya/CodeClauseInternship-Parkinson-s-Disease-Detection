@@ -3,7 +3,7 @@ This repository contains the code and resources for detecting Parkinson's Diseas
 
 ## Table of Contents
 
-- [Website link](#websitelink)
+- [Weblink](#weblink)
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
@@ -12,7 +12,7 @@ This repository contains the code and resources for detecting Parkinson's Diseas
 - [License](#license)
 - [DemoImages](#demoimages)
 
-## Website link
+## Weblink
 [NeuroVista](https://neurovista.onrender.com)
 
 ## Introduction
